@@ -2,8 +2,7 @@
 
 __author__ = Tuomas Kulmala"
 __copyright__ = "Tuomas Kulmala"
-__credits__ = ["Tuomas Kulmala",
-                    "Matthew Wakefield"]
+__credits__ = "Tuomas Kulmala"
 __license__ = "Public Domain"
 __version__ = "0.0.1"
 __maintainer__ = "Tuomas Kulmala"
